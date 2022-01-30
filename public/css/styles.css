@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@700&display=swap');
+
+body{
+    font-family: 'Open Sans Condensed', sans-serif;
+    background-image: linear-gradient(to right, #8da9c4, #eef4ed);
+}
+
+#name{
+    text-align: center;
+}
+#name_comp{
+    margin-top: 25px;
+    width: 600px;
+    height: 100px;
+    letter-spacing: 8px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100px;
+    border: 2px solid black;
+}
+
+#image{
+    text-align:center;
+}
+
+#picture_comp{
+    display: inline-block;
+    margin-top: 25px;
+    height : 500px;
+    border: 2px solid black;
+}
+
+#intro{
+    text-align:center;
+}
+
+#intro_comp{
+    display: inline-block;
+    text-align: center;
+    margin-top:50px;
+    width: 500px;
+}
+
+#button{
+    text-align:center;
+}
+
+#button_comp{
+    margin-top: 25px;
+    background: #B0C4DE;
+    width: 500px;
+    height: 100px;
+    letter-spacing: 8px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100px;
+    font-size: 20px;
+}
+
+#button_comp:hover{
+    background: none;
+}
